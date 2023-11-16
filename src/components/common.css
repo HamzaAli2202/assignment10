@@ -1,0 +1,36 @@
+body {
+    background-color: goldenrod;
+}
+
+.sub {
+    margin: 10px;
+    padding: 10px;
+    height: 350px;
+    width: 350px;
+    background-color: greenyellow;
+    box-shadow: 8px 8px 8px yellow;
+}
+
+button {
+    margin: 25px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: sienna;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 50px;
+    box-shadow: 5px 5px 5px black;
+    color: wheat;
+}
+
+.main {
+    margin-left: 500px;
+    margin-top: 50px;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 130px;
+    color: brown
+}
